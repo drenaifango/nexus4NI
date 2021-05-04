@@ -246,6 +246,7 @@ Additionally there is definetly some meta data that I can think of that currentl
 * Timepix chip temperatures
 * Sample info (along with tracking number)
 * proton beam current from spallation source
+* Gas pressure
 * There are probably other things that I'm missing. 
 
 
